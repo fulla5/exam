@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@400;500;700&family=Cairo:wght@500;600&family=Roboto+Slab:wght@300;400&display=swap');
+
+body{
+
+    font-family: 'Cairo', sans-serif;
+}
+header{
+    background-image: url(../img/1\ \(2\).jpg);
+    height:300PX;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-position: center;
+   background-size: cover;
+   justify-self: auto;
+   margin: auto;
+}
+
+header .col-2{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+}
+
+
+h2{
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
+   
+}
+
+
+
+
+.button{
+    background-image: url(../img/1\ \(1\).jpg);
+    height:300PX;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-position: center;
+   background-size: cover;
+   padding-top: 100px;
+   margin: auto;
+    align-content: center;
+}
+
+
+.button .card{
+    font-size: 40px;
+   width: 200px;
+    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.281);
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+    padding-top: 15px;
+   line-height: 50%;
+   margin: auto;
+   
+ }
